@@ -1714,7 +1714,7 @@ pre code {
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #4ca17f;
+  border-color: #3C7379;
 }
 
 .table-hover .table-primary:hover {
@@ -2449,7 +2449,7 @@ fieldset:disabled a.btn {
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #4ca17f;
+  background-color: #3C7379;
   border-color: #0B5057;
   box-shadow: 0 0 0 0.2rem rgba(199, 117, 86, 0.5);
 }
@@ -2460,7 +2460,7 @@ fieldset:disabled a.btn {
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #4ca17f;
+  background-color: #3C7379;
   border-color: #0B5057;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
@@ -4832,7 +4832,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .alert-primary {
-  color: #4ca17f;
+  color: #3C7379;
   background-color: #f2dfd7;
   border-color: #edd2c7;
 }
@@ -5184,7 +5184,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .list-group-item-primary {
-  color: #4ca17f;
+  color: #3C7379;
   background-color: #edd2c7;
 }
 .list-group-item-primary.list-group-item-action:hover, .list-group-item-primary.list-group-item-action:focus {
@@ -5193,8 +5193,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 .list-group-item-primary.list-group-item-action.active {
   color: #fff;
-  background-color: #4ca17f;
-  border-color: #4ca17f;
+  background-color: #3C7379;
+  border-color: #3C7379;
 }
 
 .list-group-item-secondary {
