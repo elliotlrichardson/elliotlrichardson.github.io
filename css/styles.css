@@ -64,7 +64,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #0B5057;
+  color: #6c757d;
   text-align: left;
   background-color: #fff;
 }
@@ -469,7 +469,7 @@ mark,
 .blockquote-footer {
   display: block;
   font-size: 80%;
-  color: #3C7379;
+  color: #6c757d;
 }
 .blockquote-footer::before {
   content: "— ";
@@ -500,7 +500,7 @@ mark,
 
 .figure-caption {
   font-size: 90%;
-  color: #3C7379;
+  color: #6c757d;
 }
 
 code {
@@ -1714,15 +1714,15 @@ pre code {
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #3C7379;
+  border-color: #6c757d;
 }
 
 .table-hover .table-primary:hover {
-  background-color: #3C7379;
+  background-color: #6c757d;
 }
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #3C7379;
+  background-color: #6c757d;
 }
 
 .table-secondary,
@@ -2000,15 +2000,15 @@ pre code {
   box-shadow: 0 0 0 0.2rem rgba(189, 93, 56, 0.25);
 }
 .form-control::-moz-placeholder {
-  color: #3C7379;
+  color: #6c757d;
   opacity: 1;
 }
 .form-control:-ms-input-placeholder {
-  color: #3C7379;
+  color: #6c757d;
   opacity: 1;
 }
 .form-control::placeholder {
-  color: #3C7379;
+  color: #6c757d;
   opacity: 1;
 }
 .form-control:disabled, .form-control[readonly] {
@@ -2132,7 +2132,7 @@ textarea.form-control {
   margin-left: -1.25rem;
 }
 .form-check-input[disabled] ~ .form-check-label, .form-check-input:disabled ~ .form-check-label {
-  color: #3C7379;
+  color: #6c757d;
 }
 
 .form-check-label {
@@ -2444,7 +2444,7 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #3C7379;
+  background-color: #6c757d;
   border-color: #0B5057;
 }
 .btn-primary:focus, .btn-primary.focus {
