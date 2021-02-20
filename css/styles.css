@@ -7492,6 +7492,7 @@ button.bg-dark:focus {
 
 .mb-0,
 .my-0 {
+  margin-top: 20px;
   margin-bottom: 0 !important;
   color: #343a40
 
